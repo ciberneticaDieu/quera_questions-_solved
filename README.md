@@ -133,7 +133,7 @@
   </tr>
     </tr>
                                         <tr>
-    <td><a href="https://quera.org/problemset/3538/">آخ جون طرف نیست!</a></td>
+    <td><a href="https://quera.org/problemset/3538/">آخ جون طرف نیست</a></td>
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Hooray_is_not_on_the_side.py">python</a></td>
     <td></td>
   </tr>
