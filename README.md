@@ -12,7 +12,7 @@
     <th>توضیحات</th>
   </tr>
   <tr>
-    <td><a href="https://quera.org/problemset/2885/"></a>یک سوال ساده</td>
+    <td><a href="https://quera.org/problemset/2885/">یک سوال ساده</a></td>
     <td><a href="https://github.com/ciberneticaDieu/quera_questions-_solved/blob/main/quera/A_simple_question.py">python</a></td>
     <td></td>
   </tr>
