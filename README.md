@@ -145,6 +145,11 @@
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/names.py">python</a></td>
     <td></td>
   </tr>
+         <tr>
+    <td><a href="https://quera.org/problemset/3408/">سوال برنامه نویسی برنامه نویسی سوال</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Question_Programming_Question_Programming.py">python</a></td>
+    <td></td>
+  </tr>
 </table>
 </body>
 </html>
