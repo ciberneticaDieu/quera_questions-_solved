@@ -180,6 +180,11 @@
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Hundreds_are_tired.py">python</a></td>
     <td></td>
      </tr>
+                         <tr>
+    <td><a href="https://quera.org/problemset/649/">اول بینی</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/First_nose.py">python</a></td>
+    <td></td>
+     </tr>
 </table>
 </body>
 </html>
