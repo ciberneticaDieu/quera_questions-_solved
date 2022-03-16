@@ -157,9 +157,9 @@
   </tr>
              <tr>
     <td><a href="https://quera.org/problemset/3430/">بلندگو</a></td>
-    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Speaker.py>python</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Speaker.py">python</a></td>
     <td></td>
-  </tr>
+     </tr>
 </table>
 </body>
 </html>
