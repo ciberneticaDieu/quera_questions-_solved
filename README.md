@@ -160,6 +160,11 @@
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Speaker.py">python</a></td>
     <td></td>
      </tr>
+               <tr>
+    <td><a href="https://quera.org/problemset/2659/">تست بینایی</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Vision_test.py">python</a></td>
+    <td></td>
+     </tr>
 </table>
 </body>
 </html>
