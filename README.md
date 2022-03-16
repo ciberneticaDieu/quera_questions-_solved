@@ -170,6 +170,11 @@
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Eat_watermelon.py">python</a></td>
     <td></td>
      </tr>
+                   <tr>
+    <td><a href="https://quera.org/problemset/617/">عدد خودمقلوب</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Autonomous_number.py">python</a></td>
+    <td></td>
+     </tr>
 </table>
 </body>
 </html>
