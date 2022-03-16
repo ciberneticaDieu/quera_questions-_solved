@@ -140,6 +140,10 @@
     <td><a href="https://quera.org/problemset/6082/">آسمان شکر آباد</a></td>
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Sky_Sugar_Abad.py">python</a></td>
     <td></td>
+       <tr>
+    <td><a href="https://quera.org/problemset/2529/">اسم ها</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/names.py">python</a></td>
+    <td></td>
   </tr>
 </table>
 </body>
