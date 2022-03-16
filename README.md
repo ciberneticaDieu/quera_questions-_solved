@@ -62,7 +62,7 @@
     <td></td>
   </tr>
               <tr>
-    <td><a href="https://quera.org/problemset/28947/">ام‌سین</a></td>
+    <td><a href="https://quera.org/problemset/28947/">ام سین</a></td>
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/M_sin.py">python</a></td>
     <td></td>
   </tr>
@@ -82,7 +82,7 @@
     <td></td>
   </tr>
                       <tr>
-    <td><a href="https://quera.org/problemset/2636/">شطرنج حرفه‌ای</a></td>
+    <td><a href="https://quera.org/problemset/2636/">شطرنج حرفه ای</a></td>
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Professional_Chess.py">python</a></td>
     <td></td>
   </tr>
@@ -148,6 +148,16 @@
          <tr>
     <td><a href="https://quera.org/problemset/3408/">سوال برنامه نویسی برنامه نویسی سوال</a></td>
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Question_Programming_Question_Programming.py">python</a></td>
+    <td></td>
+  </tr>
+           <tr>
+    <td><a href="https://quera.org/problemset/3408/">سوال برنامه نویسی برنامه نویسی سوال</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Question_Programming_Question_Programming.py">python</a></td>
+    <td></td>
+  </tr>
+             <tr>
+    <td><a href="https://quera.org/problemset/3430/">بلندگو</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Speaker.py>python</a></td>
     <td></td>
   </tr>
 </table>
