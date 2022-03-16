@@ -185,6 +185,11 @@
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/First_nose.py">python</a></td>
     <td></td>
      </tr>
+                           <tr>
+    <td><a href="https://quera.org/problemset/293/">اعداد اول</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Prime_numbers.py">python</a></td>
+    <td></td>
+     </tr>
 </table>
 </body>
 </html>
