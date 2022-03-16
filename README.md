@@ -200,6 +200,11 @@
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Square_printing.py">python</a></td>
     <td></td>
      </tr>
+                            <tr>
+    <td><a href="https://quera.org/problemset/3414/">دو نقطه خط</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Two_line_dots.py">python</a></td>
+    <td></td>
+     </tr>
 </table>
 </body>
 </html>
