@@ -195,6 +195,11 @@
     <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Fibonacci_string.py">python</a></td>
     <td></td>
      </tr>
+                             <tr>
+    <td><a href="https://quera.org/problemset/591/">چاپ مربع</a></td>
+    <td><a href="https://github.com/ciberneticaDieu/quera_questions_solved/blob/main/quera/Square_printing.py">python</a></td>
+    <td></td>
+     </tr>
 </table>
 </body>
 </html>
